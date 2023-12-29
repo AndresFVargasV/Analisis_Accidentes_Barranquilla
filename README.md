@@ -25,8 +25,8 @@ Este repositorio contiene un análisis descriptivo y de geolocalización de la a
 - Clona este repositorio:
 
     ```bash
-    git clone https://github.com/AndresFVargasV/informe_accidentesBarranquilla.git
-    cd informe_accidentesBarranquilla
+    git clone https://github.com/AndresFVargasV/Analisis_accidentesBarranquilla.git
+    cd Analisis_accidentesBarranquilla
     ```
 
 ## Nota Importante
