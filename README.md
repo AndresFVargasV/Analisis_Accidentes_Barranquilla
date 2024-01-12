@@ -37,7 +37,7 @@ Este repositorio contiene un análisis descriptivo y de geolocalización de la a
 
 Deber tener en cuenta lo siguiente si quieres ejecutar o realizar un nuevo análisis con la script de obtención de coordenadas de los accidentes en el cuaderno de Jupyter:
 
-- Azure Maps: Es necesario tener una cuenta de Microsoft Azure y tener activo el servicio de Azure Maps para poder generar una API KEY que permita obtener datos de coordenadas de los accidentes.
+- Azure Maps y Google Maps API: Es necesario tener una cuenta de Microsoft Azure o de Google Cloud Console y tener activo el servicio de Azure Maps o Gmaps API para poder generar una API KEY que permita obtener datos de coordenadas de los accidentes.
 
 ## Contribuciones
 
