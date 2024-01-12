@@ -12,7 +12,9 @@ Este repositorio contiene un análisis descriptivo y de geolocalización de la a
    - `barranquilla_map.html`: Este archivo HTML contiene la vista desde el navegador del análisis geo-espacial de los accidentes en Barranquilla en 2023. Así como también, podemos ver la semaforización y cámaras de tránsito de la ciudad en diferentes capas del mapa. 
 
 2. **Datos:**
-   - [Dataset Accidentalidad Barranquilla - Alcaldía de Barranquilla](https://www.datos.gov.co/Transporte/Accidentalidad-en-Barranquilla/yb9r-2dsi/about_data): A través de este enlace podrás ingresar al dataset público de accidentes en Barranquilla desde el año 2018 hasta 2023. Este conjunto de datos es suministrado por La Alcaldía Distrital de Barranquilla, Distrito Especial, Industrial y Portuario.
+   - [Dataset Accidentalidad Barranquilla - Alcaldía de Barranquilla](https://www.datos.gov.co/Transporte/Accidentalidad-en-Barranquilla/yb9r-2dsi/about_data): A través de este enlace, podrás ingresar al dataset público de accidentes en Barranquilla desde el año 2018 hasta 2023. Este conjunto de datos es suministrado por La Alcaldía Distrital de Barranquilla, Distrito Especial, Industrial y Portuario.
+   - [Dataset Detención Electronica Barranquilla - Alcaldía de Barranquilla](https://www.datos.gov.co/Transporte/Mapa-de-Puntos-de-Detecci-n-electr-nica-de-Barranq/4jwj-za7t): A través de este enlance, podrás ingresar al dataset público de todas las cámaras de tránsito registradas en Barranquilla. Este conjunto de datos es suministrado por La Alcaldía Distrital de Barranquilla, Distrito Especial, Industrial y Portuario.
+   - [Dataset Semaforización Barranquilla - Alcaldía de Barranquilla](https://www.datos.gov.co/Transporte/Mapa-de-Semaforizaci-n-Barranquilla/cq6s-q4gx): A través de este enlance, podrás ingresar al dataset público de todos los semaforos registrados en Barranquilla. Este conjunto de datos es suministrado por La Alcaldía Distrital de Barranquilla, Distrito Especial, Industrial y Portuario.
 
 3. **Gráficos y Mapas:**
    - En el cuaderno de Jupyter `Accidentalidad_Barranquilla.ipynb` encontrarás gráfico y conclusiones generadas durante el análisis.
